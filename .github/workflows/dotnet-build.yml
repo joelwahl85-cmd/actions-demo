@@ -38,7 +38,5 @@ jobs:
           dotnet-version: '10.0.x'
 
       - name: Build project
-        run: dotnet build
+        run: dotnet build DevOpsDemo/DevOpsDemo
 
-      - name: Run code
-        run: dotnet run --project CleanCodeDevOps.App/CleanCodeDevOps.App.csproj
