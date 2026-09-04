@@ -1,0 +1,14 @@
+C:\Users\joelw\source\repos\actions-demo\DevOpsDemo\DevOpsDemo\bin\Debug\net10.0\DevOpsDemo.exe
+C:\Users\joelw\source\repos\actions-demo\DevOpsDemo\DevOpsDemo\bin\Debug\net10.0\DevOpsDemo.deps.json
+C:\Users\joelw\source\repos\actions-demo\DevOpsDemo\DevOpsDemo\bin\Debug\net10.0\DevOpsDemo.runtimeconfig.json
+C:\Users\joelw\source\repos\actions-demo\DevOpsDemo\DevOpsDemo\bin\Debug\net10.0\DevOpsDemo.dll
+C:\Users\joelw\source\repos\actions-demo\DevOpsDemo\DevOpsDemo\bin\Debug\net10.0\DevOpsDemo.pdb
+C:\Users\joelw\source\repos\actions-demo\DevOpsDemo\DevOpsDemo\obj\Debug\net10.0\DevOpsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joelw\source\repos\actions-demo\DevOpsDemo\DevOpsDemo\obj\Debug\net10.0\DevOpsDemo.AssemblyInfoInputs.cache
+C:\Users\joelw\source\repos\actions-demo\DevOpsDemo\DevOpsDemo\obj\Debug\net10.0\DevOpsDemo.AssemblyInfo.cs
+C:\Users\joelw\source\repos\actions-demo\DevOpsDemo\DevOpsDemo\obj\Debug\net10.0\DevOpsDemo.csproj.CoreCompileInputs.cache
+C:\Users\joelw\source\repos\actions-demo\DevOpsDemo\DevOpsDemo\obj\Debug\net10.0\DevOpsDemo.dll
+C:\Users\joelw\source\repos\actions-demo\DevOpsDemo\DevOpsDemo\obj\Debug\net10.0\refint\DevOpsDemo.dll
+C:\Users\joelw\source\repos\actions-demo\DevOpsDemo\DevOpsDemo\obj\Debug\net10.0\DevOpsDemo.pdb
+C:\Users\joelw\source\repos\actions-demo\DevOpsDemo\DevOpsDemo\obj\Debug\net10.0\DevOpsDemo.genruntimeconfig.cache
+C:\Users\joelw\source\repos\actions-demo\DevOpsDemo\DevOpsDemo\obj\Debug\net10.0\ref\DevOpsDemo.dll
